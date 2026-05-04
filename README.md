@@ -1,13 +1,15 @@
 ## Hi there, I'm Ahmad Sofian Bin Shaharudin👋
 
 ### 🧑‍🦱 About Me
+---
 Fresh graduate Computer System and Network at Universiti Malaya, seeking to leverage my technical expertise in Cybersecurity and Governance, Risk and Compliance (GRC). I bring discipline, leadership, teamwork and strong work ethic to every projects.
 
 - 💼 Completed 6-month Digital Governance Internship at PETRONAS Chemicals Group Berhad (Jul 2024 - Jan 2025).
 - 🎯Targeting roles as GRC Analyst at top companies.
 - 📑Passionate about staying updated with latest cybersecurity news and technologies.
 
-### 🕴️Professional Experience
+### 🚀Professional Experience
+---
 #### Digital Governance Intern | PCG
 July 2024 - January 2025
 - Developed and maintained a cybersecurity performance dashboard report.
