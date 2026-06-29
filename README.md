@@ -4,8 +4,7 @@
 Fresh graduate Computer System and Network at Universiti Malaya, seeking to leverage my technical expertise in Cybersecurity and Network environment. I bring discipline, leadership, teamwork and strong work ethic to every projects.
 
 - 💼 Completed 6-month Digital Governance Internship at PETRONAS Chemicals Group Berhad (Jul 2024 - Jan 2025).
-- 🎯Targeting roles as GRC Analyst at top companies.
-- 📑Passionate about staying updated with latest cybersecurity news and technologies.
+- 📑Passionate in cybersecurity news and technologies.
 ---
 
 ### 🚀Professional Experience
