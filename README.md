@@ -4,7 +4,7 @@
 Fresh graduate Computer System and Network at Universiti Malaya, seeking to leverage my technical expertise in Cybersecurity and Network environment. I bring discipline, leadership, teamwork and strong work ethic to every projects.
 
 - 💼 Completed 6-month Digital Governance Internship at PETRONAS Chemicals Group Berhad (Jul 2024 - Jan 2025).
-- 📑Passionate in cybersecurity news and technologies.
+- 📑Passionate in cybersecurity and new technologies.
 ---
 
 ### 🚀Professional Experience
@@ -14,24 +14,6 @@ July 2024 - January 2025
 - Delivered cybersecurity awareness session with employees
 - Conduct data analysis on risk management metrics.
 - Produced cybersecurity monthly management report.
----
-
-### 💻 Professional Skills
-#### 📖Security Frameworks
-ISO 27001 | NIST CSF | NIST RMF | HIPAA | BNM RMiT
-
-#### 👨‍💻Security Monitoring
-Wazuh | Splunk | OpenSearch | FIM | VirusTotal
-
-#### ⚛️Networking Infrastructure
-Linux Administration | TCP/IP & OSI Model | Virtual Machine
-
-#### 📊Data Analytics
-Python | Power BI | Streamlit | Excel | DAX | SQL | R
-
-#### 🔖Certification
-CompTIA Security+ | Google Cybersecurity | CCNAv7
-
 ---
 
 ### 🎯Current Goals
